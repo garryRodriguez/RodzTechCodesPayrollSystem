@@ -1,2 +1,2 @@
-# RodzTechCodesPayrollSystem
-This is an ongoing project to create a payroll system in PHP
+# rodztechcodes
+My codes for rodztechnology --- my ongoing payroll project in PHP
